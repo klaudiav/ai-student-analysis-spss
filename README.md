@@ -42,4 +42,4 @@ Files
 - SPSS output
 
 Disclaimer:
-The original project was made in Romanian, as requested by my curricula, and so the entire AnalysisPaper document is a direct translation of the original one in Romanian, alternatively it contains some small improvments in indentation and certain text enchancements, otherwise identical.
+The original project was made in Romanian, as requested by my curricula, and so the entire AnalysisPaper document is a direct translation of the original one in Romanian, alternatively it contains some small improvements in indentation and certain text enchancements, otherwise identical.
