@@ -3,7 +3,7 @@ Statistical analysis of AI adoption among students using SPSS
 
 Overview
 
-This project explores how students perceive the impact of Artificial Intelligence (AI) on their future careers and productivity. The analysis is based on survey data collected from students across Romania.
+This project was done as a semester-long project and it's purpose is to explore how students perceive the impact of Artificial Intelligence (AI) on their future careers and productivity. The analysis is based on survey data collected from students across Romania.
 
 Objectives
 - Analyse the frequency of AI usage among students
